@@ -1,0 +1,128 @@
+h2{
+
+    text-align: center;
+    font-size: 2.5rem;
+    font-style: inherit;
+
+
+
+}
+h3{
+
+    text-align: center;
+
+
+}
+img{
+    
+
+}
+.Cabeza{
+
+    text-align: center;
+    font-size: 7rem;
+    
+
+}
+.Cabeza-Rojo{
+
+    color: red;
+    
+
+}
+.Navegacion{
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.alto{
+
+
+    margin: 1rem 6rem;
+
+
+}
+.Formulario{
+
+    border-color: black;
+    border-radius: 0.1rem;
+    max-width: 60rem;
+    margin: 0 auto;
+
+
+}
+
+.Formulario legend{
+
+    background-color: rgb(42, 187, 213);
+    color: #fff;
+    text-align: center;
+    width:100%;
+    height: 2rem;
+    padding-top: 1rem ;
+    
+
+
+
+
+}
+fieldset{
+
+    margin: 2rem auto;
+
+
+}
+.btn{
+    display: block;
+    background-color: rgb(45, 168, 14);
+    color: #fff;
+    border: 0;
+    margin-top: 0.5rem;
+    height: 4rem;
+    width: auto;
+    text-transform: uppercase;
+    font-weight: 600;
+
+
+
+}
+.Main-footer{
+
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: 5rem 2rem;
+
+}
+
+.Bajon{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    position: absolute;
+    
+
+
+}
+.Cuadro{
+    margin: 5rem 5rem;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(200px,1fr));
+    grid-template-rows: 30rem 30rem3 0rem 30rem;
+
+
+
+}
+.Cuadro img{
+
+
+    height: 25rem;
+    width: 20rem;
+
+}
+.Cuadro div{
+    text-align: center;
+    padding: 1rem 1rem;
+
+}
